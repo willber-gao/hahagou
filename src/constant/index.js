@@ -1,0 +1,1 @@
+export const TYPE = 3   //拼图种类   3*3方块
